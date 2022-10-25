@@ -13,7 +13,8 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("Trabajo Final"),  _
+<Assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("19cd9ed2-902e-4a11-92da-9b41920ffd9e"),  _
+ Assembly: System.Reflection.AssemblyCompanyAttribute("Trabajo Final"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
  Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _

@@ -1,0 +1,34 @@
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Trabajo Final.exe
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Trabajo Final.deps.json
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Trabajo Final.runtimeconfig.json
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Trabajo Final.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Trabajo Final.pdb
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\obj\Debug\net6.0-windows\Trabajo Final.vbproj.AssemblyReference.cache
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\obj\Debug\net6.0-windows\Trabajo_Final.Form1.resources
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\obj\Debug\net6.0-windows\Trabajo Final.vbproj.GenerateResource.cache
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\obj\Debug\net6.0-windows\Trabajo Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\obj\Debug\net6.0-windows\Trabajo Final.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\obj\Debug\net6.0-windows\Trabajo Final.AssemblyInfo.vb
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\obj\Debug\net6.0-windows\Trabajo Final.vbproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\obj\Debug\net6.0-windows\Trabajo Final.vbproj.CopyComplete
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\obj\Debug\net6.0-windows\Trabajo Final.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\obj\Debug\net6.0-windows\refint\Trabajo Final.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\obj\Debug\net6.0-windows\Trabajo Final.pdb
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\obj\Debug\net6.0-windows\Trabajo Final.genruntimeconfig.cache
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\obj\Debug\net6.0-windows\ref\Trabajo Final.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\Trabajo Final.dll.config
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\WINDOWS\Desktop\TRABAJO FINAL.1\Trabajo Final\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
